@@ -80,4 +80,4 @@ plt.savefig('interp_conv.png', dpi=300)
 ####################################
 #Ahora hay que convertir las matrices en txt
 #y adaptar el profiler to mephysto para convertir las matrices en archivos que se pueda comer el mephysto o 
-#el veriqa
+#el veriqaaaaaaaa
